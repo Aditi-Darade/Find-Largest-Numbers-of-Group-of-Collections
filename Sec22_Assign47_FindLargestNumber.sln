@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec22_Assign47_FindLargestNumber", "Sec22_Assign47_FindLargestNumber\Sec22_Assign47_FindLargestNumber.csproj", "{8CAE9392-B2E0-45E1-939D-B1309E5D7FA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{350E1042-A883-499A-B952-571C9F0F981F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CAE9392-B2E0-45E1-939D-B1309E5D7FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAE9392-B2E0-45E1-939D-B1309E5D7FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAE9392-B2E0-45E1-939D-B1309E5D7FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAE9392-B2E0-45E1-939D-B1309E5D7FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350E1042-A883-499A-B952-571C9F0F981F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350E1042-A883-499A-B952-571C9F0F981F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350E1042-A883-499A-B952-571C9F0F981F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350E1042-A883-499A-B952-571C9F0F981F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85A34AC5-BC69-49B1-A905-F028A637BFEB}
+	EndGlobalSection
+EndGlobal
